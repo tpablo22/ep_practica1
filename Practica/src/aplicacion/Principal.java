@@ -1,5 +1,6 @@
-//import dominio;
 package aplicacion;
+import dominio.*;
+import interfaz.*;
 
 
 public class Principal{
